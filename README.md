@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor](https://your-solution-url.com)
-- Live Site URL: [Vercel](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-links-profile-using-tailwind-vite-lSBsYLKcxN)
+- Live Site URL: [Vercel](https://profile-main-two.vercel.app)
 
 ### Built with
 
